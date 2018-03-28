@@ -1,0 +1,28 @@
+{
+  "name": "flaatsjs",
+  "version": "0.0.1",
+  "description": "Monitoring Editor tool using canvas + SVG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustyoo86/flaatsjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "canvas",
+    "svg",
+    "monitoring"
+  ],
+  "author": "kern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trustyoo86/flaatsjs/issues"
+  },
+  "homepage": "https://github.com/trustyoo86/flaatsjs#readme",
+  "devDependencies": {
+    "lerna": "^2.9.0"
+  }
+}
