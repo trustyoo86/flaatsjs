@@ -40,7 +40,7 @@ interface Iopt {
   zIndex?: number
 }
 
-class Layer implements ILayer{
+class Layer implements ILayer {
   /**
    * base element for draw layer
    * 
@@ -292,7 +292,7 @@ class Layer implements ILayer{
         'position': 'absolute',
         'pointer-events': 'none'
       });
-   
+
     return controlBase;
   }
 

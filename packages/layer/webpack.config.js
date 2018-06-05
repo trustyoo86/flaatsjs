@@ -2,6 +2,7 @@
 require('babel-register')
 
 const path = require('path')
+const webpack = require('webpack')
 
 const isProd = process.env.NODE_ENV === 'production'
 
